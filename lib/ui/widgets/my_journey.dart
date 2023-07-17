@@ -10,7 +10,7 @@ class MyJourney extends StatelessWidget {
     return Container(
       width: double.infinity,
       height: 50,
-      color: Colors.orangeAccent,
+      color: const Color.fromARGB(255, 250, 191, 101),
       child: const Center(
         child: Text(
           '----- My Journey -----',
