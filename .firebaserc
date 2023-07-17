@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "qisthi-annisa"
+  },
+  "targets": {
+    "qisthi-annisa": {
+      "hosting": {
+        "qisthi1": [
+          "qisthi"
+        ],
+        "qisthi2": [
+          "qisthi-annisa"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
